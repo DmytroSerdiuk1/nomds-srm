@@ -5,7 +5,7 @@ import {useNavigate} from 'react-router-dom';
 import {ROUTES} from '../enums/routes';
 
 const Login = () => {
-	const dispatch = useDispatch();
+	// const dispatch = useDispatch();
 	const navigate = useNavigate();
 	return (
 		<Box sx={{
