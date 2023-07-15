@@ -29,5 +29,5 @@ jobs:
 
         # Custom script for creating the test build
       - name: Create test build
-        run: yarn run build
+        run: yarn build
 
